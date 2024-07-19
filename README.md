@@ -1,1 +1,1 @@
-# web
+Network speed detection in JavaScript involves measuring the time it takes to download a known file or resource and calculating the download speed. To calculate the speed of the network a file of known size is chosen from a server to download. The time taken to start and complete the download is recorded and using the file size and the time taken, the download speed is calculated.
